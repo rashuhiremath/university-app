@@ -1,0 +1,10 @@
+.lang {
+  border-width: 0ch;
+  background-color: transparent;
+  color: black;
+}
+
+.lang:focus-visible {
+  border: none;
+  outline: none;
+}

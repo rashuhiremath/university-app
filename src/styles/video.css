@@ -1,0 +1,6 @@
+.vsize {
+  overflow: hidden;
+  height: 8rem;
+  width: 2rem;
+  object-fit: cover;
+}

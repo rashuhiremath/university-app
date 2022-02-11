@@ -1,0 +1,35 @@
+.top {
+  background-color: rgb(186, 202, 154);
+  height: 30px;
+}
+
+#div_top_hypers {
+  background-color: #eeeeee;
+  display: inline;
+}
+/* #ul_top_hypers li {
+  display: inline;
+  color: white;
+  font-size: 13px;
+} */
+
+.mylist {
+  display: inline;
+  color: white;
+  font-size: 13px;
+}
+
+.myul a {
+  color: black;
+}
+
+.phone {
+  font-size: 25px;
+  color: black;
+  display: inline;
+}
+
+.line {
+  color: black;
+  font-size: 20px;
+}

@@ -1,0 +1,25 @@
+.smallf {
+  background-color: black;
+  height: 10px;
+}
+
+.bigf {
+  background-color: rgb(186, 202, 154);
+}
+
+.bigf p {
+  color: black;
+  padding-top: 50px;
+  font-size: 10px;
+}
+
+.contact {
+  color: black;
+  font-size: 15px;
+  padding-top: 10px;
+}
+
+.icons {
+  font-size: 30px;
+  color: black;
+}

@@ -1,0 +1,15 @@
+.lastcard {
+  background-color: rgb(186, 202, 154);
+  font-size: 20;
+  align-items: center;
+  color: black;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.mycolor a {
+  color: black;
+}
+
+/* .maincard {
+  min-height: 1000px;
+} */

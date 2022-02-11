@@ -1,0 +1,10 @@
+.myplacement {
+  background-color: white;
+  color: black;
+}
+.myplacement a {
+}
+
+.myplacement:hover {
+  background-color: teal;
+}
