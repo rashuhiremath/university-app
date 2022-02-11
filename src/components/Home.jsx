@@ -20,7 +20,7 @@ return(<>
  <Lastbar/>
  {/* <Chat/> */}
  <Footer/>
-  <PopUp/> 
+  {/* <PopUp/>  */}
  {/* <img src="https://youtu.be/tzMpWiGL8D8"/> */}
 </>)
 
